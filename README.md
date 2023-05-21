@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-
+<div style="display: flex; justify-content: space-between;">
 <img alt="Visual studio code" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="HTML5" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS3" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -38,7 +38,10 @@
 <img alt="WordPress" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img alt="Linux" width="26px" style="margin-right:10px" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
 <img alt="React" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
+<img alt="bash" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img alt="docker" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img alt="he
+</div>
 
 ### Stats:
 ![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
