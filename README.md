@@ -1,4 +1,4 @@
-## <span style="text-align: center; display: block;">Hi there 👋, I'm Romy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></span>
+## <h2 style="text-align: center; display: block;">Hi there 👋, I'm Romy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></span>
 
 ![](https://hit.yhype.me/github/profile?user_id=romyklk) 
 ![](https://img.shields.io/github/followers/romyklk?style=social) 
