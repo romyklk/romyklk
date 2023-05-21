@@ -1,5 +1,4 @@
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
- <h2><span style="text-align: center; display: block;">Hi there 👋, I'm Romy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></span></h2>
+## <span style="text-align: center; display: block;">Hi there 👋, I'm Romy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></span>
 
 ![](https://hit.yhype.me/github/profile?user_id=romyklk) 
 ![](https://img.shields.io/github/followers/romyklk?style=social) 
@@ -46,5 +45,4 @@
 ![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical)
 
-</div>
 
