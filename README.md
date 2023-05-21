@@ -1,4 +1,11 @@
 ### 👋 Hi there, I'm Romy 👋
+![](https://hit.yhype.me/github/profile?user_id=romyklk) 
+![](https://img.shields.io/github/followers/romyklk?style=social) 
+![](https://img.shields.io/twitter/follow/romyklk?style=social)
+![](https://img.shields.io/github/watchers/romyklk/romyklk?style=social)
+![](https://img.shields.io/github/last-commit/romyklk/romyklk?style=social)
+![](https://img.shields.io/github/contributors/romyklk/romyklk?style=social)
+
 #### I'm a Full Stack Developer . I love to learn and share my knowledge with others as public as possible. 
 
 - 🔭 I’m currently working on a Symfony!
@@ -37,5 +44,6 @@
 <hr />
 
 ### Stats:
-![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical)
+![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical)
+
