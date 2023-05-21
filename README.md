@@ -11,39 +11,62 @@
     - [Twitter](https://twitter.com/romyklk)
     - [Email](mailto:romyklk1610@gmail.com)
 
-### Connect with me:
-    
-    [<img align="left" alt="romyklk | LinkedIn" width="22px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/linkedin.svg" />][linkedin]
-    [<img align="left" alt="romyklk | Twitter" width="22px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/twitter.svg" />][twitter]
-    [<img align="left" alt="romyklk | Instagram" width="22px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/instagram.svg" />][instagram]
-    [<img align="left" alt="romyklk | Facebook" width="22px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/facebook.svg" />][facebook]
-    [<img align="left" alt="romyklk | Facebook" width="22px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/website.svg" />][website]
+<hr />
+
+### Languages and Tools:
+
+<img alt="Visual studio code" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="HTML5" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="CSS3" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="Bootstrap" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img alt="Sass" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img alt="JavaScript" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="PHP" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img alt="Symfony" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+<img alt="MySQL" width="26px" style="margin-right:10px" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" />
+<img alt="Git" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img alt="Terminal" width="26px" style="margin-right:10px" src="https://seeklogo.com/images/T/terminal-logo-D3918B1E3A-seeklogo.com.png" />
+<img alt="WordPress" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img alt="Linux" width="26px" style="margin-right:10px" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
 
 
 <hr />
 
-### Languages and Tools:
-    
-        [<img align="left" alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/phpstorm.svg" />][phpstorm]
-        [<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/php.svg" />][php]
-        [<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/symfony.svg" />][symfony]
-        [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/laravel.svg" />][laravel]
-        [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/javascript.svg" />][javascript]
-        [<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/vuejs.svg" />][vuejs]
-        [<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/reactjs.svg" />][reactjs]
-        [<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/nodejs.svg" />][nodejs]
-        [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/mysql.svg" />][mysql]
-        [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/postgresql.svg" />][postgresql]
-        [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/mongodb.svg" />][mongodb]
-        [<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/redis.svg" />][redis]
-        [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/git.svg" />][git]
-        [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/github.svg" />][github]
-        [<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/gitlab.svg" />][gitlab]
-        [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/docker.svg" />][docker]
-        [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/kubernetes.svg" />][kubernetes]
-        [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/linux.svg" />][linux]
-        [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/ubuntu.svg" />][ubuntu]
-        [<img align="left" alt="CentOS" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/centos.svg" />][centos]
-        [<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/nginx.svg" />][nginx]
-        [<img align="left" alt="Apache" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/apache.svg" />][apache]
-        [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/romyklk/romyklk/master/assets/bash.svg" />
+### Stats:
+![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+**romyklk/romyklk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
