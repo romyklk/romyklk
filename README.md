@@ -15,6 +15,7 @@
 
 ### Languages and Tools:
 
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 <img alt="Visual studio code" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="HTML5" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS3" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -29,44 +30,12 @@
 <img alt="WordPress" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img alt="Linux" width="26px" style="margin-right:10px" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
 
+</div>
+    
+
 
 <hr />
 
 ### Stats:
 ![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**romyklk/romyklk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
