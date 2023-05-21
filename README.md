@@ -40,7 +40,7 @@
 <img alt="React" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="bash" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img alt="docker" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img alt="he
+
 </div>
 
 ### Stats:
