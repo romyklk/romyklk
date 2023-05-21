@@ -1,9 +1,11 @@
-## 👋 Hi there, I'm Romy 👋
+<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
+ <h2><span style="text-align: center; display: block;">Hi there 👋, I'm Romy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></span></h2>
+
 ![](https://hit.yhype.me/github/profile?user_id=romyklk) 
 ![](https://img.shields.io/github/followers/romyklk?style=social) 
 ![](https://img.shields.io/twitter/follow/romyklk?style=social)
 ![](https://img.shields.io/github/watchers/romyklk/romyklk?style=social)
-![](https://img.shields.io/github/last-commit/romyklk/romyklk?style=social)
+![](https://img.shields.io/github/last-commit/romyklk/romyklk?style=social&cache_seconds=86400)
 ![](https://img.shields.io/github/contributors/romyklk/romyklk?style=social)
 
 #### I'm a Full Stack Developer . I love to learn and share my knowledge with others as public as possible. 
@@ -36,14 +38,13 @@
 <img alt="Terminal" width="26px" style="margin-right:10px" src="https://seeklogo.com/images/T/terminal-logo-D3918B1E3A-seeklogo.com.png" />
 <img alt="WordPress" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img alt="Linux" width="26px" style="margin-right:10px" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
+<img alt="React" width="26px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 </div>
-    
-
-
-<hr />
 
 ### Stats:
 ![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical)
+
+</div>
 
