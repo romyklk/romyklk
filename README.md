@@ -59,5 +59,21 @@
 ![Romy's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyklk&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=romyklk&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Romy's GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romyklk&theme=radical" alt="GitHub Streak">
+</p>
+
+
+
+
+
 
 
