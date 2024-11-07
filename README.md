@@ -60,7 +60,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyklk&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romyklk&theme=radical)
 
+## 🏆 GitHub Trophies:
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=romyklk&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
+
+### 📈 Activity Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romyklk&theme=redical" alt="GitHub Activity Graph">
+</p>
 
 
 
