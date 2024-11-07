@@ -1,25 +1,34 @@
 
-## <span style="text-align: center; display: block;">Hi there 👋, I'm Romy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></span>
+<h2 align="center">Hi there 👋, I'm Romy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-![](https://hit.yhype.me/github/profile?user_id=romyklk) 
-![](https://img.shields.io/github/followers/romyklk?style=social) 
-![](https://img.shields.io/twitter/follow/romyklk?style=social)
-![](https://img.shields.io/github/watchers/romyklk/romyklk?style=social)
-![](https://img.shields.io/github/last-commit/romyklk/romyklk?style=social&cache_seconds=86400)
-![](https://img.shields.io/github/contributors/romyklk/romyklk?style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=romyklk&color=blueviolet" alt="Profile views">
+  <a href="https://github.com/romyklk?tab=followers">
+    <img src="https://img.shields.io/github/followers/romyklk?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://twitter.com/romyklk">
+    <img src="https://img.shields.io/twitter/follow/romyklk?style=social" alt="Twitter Follow">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/romyklk/romyklk?style=flat-square&color=success" alt="Last commit">
+  <img src="https://img.shields.io/github/contributors/romyklk/romyklk?style=flat-square&color=orange" alt="Contributors">
+  <img src="https://img.shields.io/github/watchers/romyklk/romyklk?style=flat-square&color=blue" alt="Watchers">
+</p>
 
-#### I'm a Full Stack Developer . I love to learn and share my knowledge with others as public as possible. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+learning+new+things;Open+Source+Enthusiast" alt="Typing SVG">
+</p>
 
-- 🔭 I’m currently working on a Symfony!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+#### I'm a Full Stack Developer who loves to learn and share knowledge as publicly as possible.
+
+- 🔭 I'm currently working on a Symfony project!
+- 🌱 I'm always learning new things 🤣
+- 👯 I'm looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play online games
-- 📫 How to reach me: 
+- 📫 How to reach me:
     - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romuald-kouleko/)
     - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/romyklk)
     - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:romyklk1610@gmail.com)
-
 
 <hr />
 
